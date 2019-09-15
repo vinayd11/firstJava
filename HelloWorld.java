@@ -4,6 +4,6 @@
  */
 public class HelloWorld {
   public static void main(String[] args) {
-    System.out.println("Hello, World FROM HIT automatic 4 5 ");
+    System.out.println("Hello, World FROM HIT automatic 4 5 6 ");
   }
 }
